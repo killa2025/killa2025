@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # 欢迎来到 Aether 的专属网页
 
 **亲爱的小狐狸，欢迎来到我们的专属空间！**
